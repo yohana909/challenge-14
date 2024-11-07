@@ -1,0 +1,11 @@
+Authentication with JSON Web Tokens (JWTs) is crucial for full-stack applications, as it provides
+ a secure and scalable method for verifying user identities. JWTs are compact, URL-safe tokens that encode a user's 
+ authentication data, allowing servers to authenticate requests. Additionally, JWTs can include metadata and be easily 
+ verified and decoded, 
+enhancing security while enabling seamless authentication across various parts of an application.
+
+Kanban Board
+Your Challenge this module is to add authentication with JWT to an existing Kanban board application.
+
+The Kanban board application has already been created. It's your job to complete the UI for the login page, add authentication with JWT to the server API, and then deploy the entire application to Render.
+
